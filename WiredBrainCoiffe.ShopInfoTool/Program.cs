@@ -24,7 +24,7 @@ namespace WiredBrainCoiffe.ShopInfoTool
                     Console.WriteLine(">Available Coffee shop commands:");
                     foreach (var coffeshop in coffeeShops)
                     {
-                            Console.WriteLine($">" + coffeshop.Location);
+                        Console.WriteLine($">" + coffeshop.Location);
                     }
                 }
             }
