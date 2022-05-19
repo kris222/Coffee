@@ -8,7 +8,7 @@ namespace WiredBrainCoiffe.ShopInfoTool
         static void Main(string[] args)
         {
             Console.WriteLine("Wired Brain Coffee - Shop Info Tool");
-            Console.WriteLine("Write 'help' to list available coffee shop commandssssssssaaaaaa +" +
+            Console.WriteLine("Write 'help' to list available coffee shop commandssssssss;;;;;;;;;; +" +
                               "write 'quit DateTimeOffset exit application");
             var coffeeShopDataProvider = new CoffeeShopDataProvider();
             while (true)
