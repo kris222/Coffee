@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoiffe.ShopInfoTool", "WiredBrainCoiffe.ShopInfoTool\WiredBrainCoiffe.ShopInfoTool.csproj", "{03F6D508-D8D7-4811-962B-192BAE6DB1EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffee.DataAccess", "WiredBrainCoffee.DataAccess\WiredBrainCoffee.DataAccess.csproj", "{BF6129CD-628C-4360-86B4-47BF3529A648}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{03F6D508-D8D7-4811-962B-192BAE6DB1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03F6D508-D8D7-4811-962B-192BAE6DB1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03F6D508-D8D7-4811-962B-192BAE6DB1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6129CD-628C-4360-86B4-47BF3529A648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6129CD-628C-4360-86B4-47BF3529A648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6129CD-628C-4360-86B4-47BF3529A648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6129CD-628C-4360-86B4-47BF3529A648}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
